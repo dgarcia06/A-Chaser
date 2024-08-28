@@ -1,0 +1,65 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Alice Johnson",
+        "review": "Great professor, explains concepts clearly and cares about students.",
+        "subject": "Math",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. Brian Smith",
+        "review": "Engaging lectures but assignments were very tough.",
+        "subject": "Computer Science",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. Catherine Lee",
+        "review": "Very knowledgeable, but not very approachable outside of class.",
+        "subject": "Physics",
+        "stars": 3
+      },
+      {
+        "professor": "Dr. David Thompson",
+        "review": "Amazing professor, but the exams were incredibly difficult.",
+        "subject": "Chemistry",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. Emily Davis",
+        "review": "Very supportive and gives detailed feedback on assignments.",
+        "subject": "English",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. Frank Wilson",
+        "review": "Lectures are very dry and not engaging, but easy to pass the class.",
+        "subject": "History",
+        "stars": 2
+      },
+      {
+        "professor": "Dr. Grace Martinez",
+        "review": "Very strict with deadlines and grading is harsh.",
+        "subject": "Economics",
+        "stars": 3
+      },
+      {
+        "professor": "Dr. Henry Clark",
+        "review": "Hands-on learning approach which really helped me understand the subject.",
+        "subject": "Engineering",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. Isabelle Hernandez",
+        "review": "Speaks too fast, making it hard to follow along in lectures.",
+        "subject": "Biology",
+        "stars": 2
+      },
+      {
+        "professor": "Dr. Jack Turner",
+        "review": "Excellent professor, always available for extra help and support.",
+        "subject": "Philosophy",
+        "stars": 5
+      }
+    ]
+  }
+  
